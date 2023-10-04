@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDOeQpwGL3n6la2PAUsi6JPu1atuGd2jcs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>732404273820</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.noti.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>calsob-shop-229f7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calsob-shop-229f7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:732404273820:ios:a29372ae95795a4ae5d359</string>
+</dict>
+</plist>

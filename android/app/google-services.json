@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732404273820",
+    "project_id": "calsob-shop-229f7",
+    "storage_bucket": "calsob-shop-229f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732404273820:android:65167c74f6d44de6e5d359",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmQ_r6YqlDCg2tX48VrN-6F_rSUXJQCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
