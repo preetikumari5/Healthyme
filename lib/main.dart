@@ -362,7 +362,22 @@ class Dashboard extends StatelessWidget {
           child: ListView(
             children: [
               // Calendar Widget Here
-
+              Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: DatePicker(
+                DateTime.now(),
+                height:100,
+                width: 80,
+                initialSelectedDate: DateTime.now(),
+                selectionColor:Colors.teal,
+                selectedTextColor: Colors.white,
+                dateTextStyle: const TextStyle(
+                  fontSize:20,
+                  fontWeight: FontWeight.w600,
+                  color: Colors.teal
+                ),
+              )
+            ),
               // First Subheading
               Padding(
                 padding: const EdgeInsets.all(16.0),
